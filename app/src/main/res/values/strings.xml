@@ -1,3 +1,13 @@
 <resources>
-  <string name="app_name">upbit_price_alarm</string>
+  <string name="app_name">업비트가격알리미</string>
+  <string name="coin_select">코인 선택 : </string>
+  <string name="coin_max">최대 가격</string>
+  <string name="coin_min">최소 가격</string>
+  <string name="alert">최대 가격 or 최소 가격 or 코인이 입력되지 않았습니다.</string>
+  <string name="helper_message">소수점 생략 가능</string>
+  <string name="start_button">가격 알람 시작</string>
+  <string name="stop_button">가격 알람 종료</string>
+  <string name="current_state">현재 상태 : %s</string>
+  <string name="observe">감시 중</string>
+  <string name="not_observe">감시 안함</string>
 </resources>
