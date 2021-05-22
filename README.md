@@ -1,7 +1,9 @@
 # upbit_price_alarm
 # Overview
+<img src="https://github.com/owen151128/upbit_price_alarm/blob/master/imgs/main.png?raw=true" width="40%" height="40%" />
+
+
 Alarm for upbit cryptocurrency price
-![intro](https://github.com/owen151128/upbit_price_alarm/master/imgs/main.png)
 
 ## Compatibility
 upbit_price_alarm works on Android!
