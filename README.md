@@ -5,6 +5,9 @@
 
 Alarm for upbit cryptocurrency price
 
+## Download Apk(Release)
+v0.1 : [upbit_price_alarm_signed.apk](https://github.com/owen151128/upbit_price_alarm/raw/master/apk/upbit_price_alarm_signed.apk)
+
 ## Compatibility
 upbit_price_alarm works on Android!
 
